@@ -30,7 +30,7 @@ if (indexMensaje < textoMensaje.length) {
 escribirTitulo();
 
 
-const inicio = new Date("2022-09-26T00:00:00");
+const inicio = new Date("2022-08-26T00:00:00");
 
 function actualizarTiempo() {
 const ahora = new Date();
